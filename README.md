@@ -6,7 +6,6 @@ Backend és app fejlesztőnek tanulok.
 
 # Projektek
 - Platinum Bot » Egy többnyelvű feltörekvő Discord bot. [Katt Ide](https://platinumbot.hu)
-- PokéWorld » Egy új kalandra fel! [Katt Ide](https://pokeworldhu.netlify.app)
 
 # Programozási nyelvek
 <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python" alt="py"/></a>
