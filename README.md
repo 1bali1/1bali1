@@ -7,12 +7,12 @@ Backend és app fejlesztőnek tanulok.
 
 # Programozási nyelvek, és eszközök
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vsc" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" alt="sqllite"/></a>
-<a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript" alt="javascript"/></a>
-<a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Dart-grey?style=for-the-badge&logo=dart" alt="dart"/></a>
-<a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/C Sharp-grey?style=for-the-badge&logo=csharp" alt="c#"/></a>
-<a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5" alt="html"/></a>
-<a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3" alt="css"/></a>
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" alt="sqllite" width=50/></a>
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="python" width=50/></a>
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="java" width=50/></a>
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="javascrit" width=50/></a>
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" alt="idea" width=50/></a>
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="html" width=50/></a>
 
 # Statisztikák
 <a href="#" target="_blank"><img align="center" src="https://wakatime.com/badge/user/072df440-838d-4c16-bc34-137a5d0c01a1.svg" alt="statBadge"/></a>
