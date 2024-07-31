@@ -1,5 +1,3 @@
-# Hello, Bali vagyok!
-
 Backend és app fejlesztőnek tanulok.
 
 <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Suzuki Valenti-grey?style=for-the-badge&logo=suzuki" alt="suzuki"/></a>
@@ -7,9 +5,9 @@ Backend és app fejlesztőnek tanulok.
 # Projektek
 - Platinum Bot » Egy többnyelvű feltörekvő Discord bot. [Katt Ide](https://platinumbot.hu)
 
-# Programozási nyelvek
-<a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python" alt="py"/></a>
-<a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java" alt="java"/></a>
+# Programozási nyelvek, és eszközök
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vsc"/></a>
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQLite.svg" alt="sqllite"/></a>
 <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript" alt="javascript"/></a>
 <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Dart-grey?style=for-the-badge&logo=dart" alt="dart"/></a>
 <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/C Sharp-grey?style=for-the-badge&logo=csharp" alt="c#"/></a>
