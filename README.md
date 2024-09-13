@@ -1,4 +1,4 @@
-Backend és app fejlesztőnek tanulok.
+Learning backend, and software development.
 
 <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Suzuki Valenti-grey?style=for-the-badge&logo=suzuki" alt="suzuki"/></a>
 
