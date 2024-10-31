@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m3incaodscfh7dvah7e5dtza6u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=0094f0&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m3incaodscfh7dvah7e5dtza6u&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=0094f0&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 Learning backend, and software development.
 
