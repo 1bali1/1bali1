@@ -4,9 +4,6 @@ Learning game, and software development.
 
 <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Suzuki Valenti-grey?style=for-the-badge&logo=suzuki" alt="suzuki"/></a>
 
-# Projektek
-- Platinum Bot » Egy többnyelvű feltörekvő Discord bot. [Katt Ide](https://platinumbot.hu)
-
 # Programozási nyelvek, és eszközök
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vsc" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" alt="vs" width=50/></a>
