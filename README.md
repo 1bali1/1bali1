@@ -1,7 +1,6 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31m3incaodscfh7dvah7e5dtza6u&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=0094f0&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 Learning game, and software development.
-https://1bali1.hu/
 
 <a href="#" target="_blank"><img align="center" src="https://img.shields.io/badge/Suzuki Valenti-grey?style=for-the-badge&logo=suzuki" alt="suzuki"/></a>
 
