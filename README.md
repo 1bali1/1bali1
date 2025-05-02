@@ -15,11 +15,9 @@ Learning game, and software development.
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="java" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" alt="dart" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=cs" alt="cs" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Discord.svg" alt="discord" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="github" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="figma" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="instragram" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cloudflare-Dark.svg" alt="cloudflare" width=50/></a>
 
 
