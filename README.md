@@ -22,7 +22,7 @@ Learning game, and software development.
 
 
 # Projektek
-[`quart-i18n](https://pypi.org/project/quart-i18n`) » Egy egyszerű, alap Quart lokalizációs csomag. <br>
+[`quart-i18n`](https://pypi.org/project/quart-i18n) » Egy egyszerű, alap Quart lokalizációs csomag. <br>
 `pycord-i18n` » Egy Py-Cord lokalizációs csomag, ami segít a parancsok lefordításában is.
 
 # Statisztikák
