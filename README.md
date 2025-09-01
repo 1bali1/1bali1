@@ -21,6 +21,9 @@ Learning game, and software development.
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cloudflare-Dark.svg" alt="cloudflare" width=50/></a>
 
 
+# Projektek
+`quart-i18n` » Egy egyszerű, alap Quart lokalizációs csomag.
+`pycord-i18n` » Egy Py-Cord lokalizációs csomag, ami segít a parancsok lefordításában is.
 
 # Statisztikák
 <a href="#" target="_blank"><img align="center" src="https://wakatime.com/badge/user/072df440-838d-4c16-bc34-137a5d0c01a1.svg" alt="statBadge"/></a>
