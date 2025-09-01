@@ -26,6 +26,6 @@ Learning game, and software development.
 `pycord-i18n` » Egy Py-Cord lokalizációs csomag, ami segít a parancsok lefordításában is.
 
 # Statisztikák
-<a href="#" target="_blank"><img align="center" src="https://wakatime.com/badge/user/072df440-838d-4c16-bc34-137a5d0c01a1.svg" alt="statBadge"/></a>
+<a href="#" target="_blank"><img align="center" src="https://wakatime.com/badge/user/072df440-838d-4c16-bc34-137a5d0c01a1.svg" alt="statBadge"/></a> ![](https://komarev.com/ghpvc/?username=1bali1&color=green)
 
 <a href="#" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bali&show_icons=true&theme=tokyonight" alt="statsChar"  height="300" width="500"/></a>
