@@ -28,6 +28,6 @@
 
 <a href="#" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bali&show_icons=true&theme=tokyonight" alt="statsChar"  height="300" width="500"/></a>
 
-<a href="#" target="_blank"><img align="center" src="https://streak-stats.demolab.com/?user=1bali1&theme=darkt" alt="statsChar"  height="300" width="500"/></a>
+<a href="#" target="_blank"><img align="center" src="https://streak-stats.demolab.com/?user=1bali1" alt="statsChar"  height="300" width="500"/></a>
 
 
