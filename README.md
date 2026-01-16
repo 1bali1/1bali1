@@ -1,18 +1,12 @@
 # Programozási nyelvek, és eszközök
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vsc" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" alt="vs" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=unity" alt="unity" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" alt="idea" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/AndroidStudio-Dark.svg" alt="androidsutdio" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" alt="flutter" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="python" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" alt="dart" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=cs" alt="cs" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" alt="github" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="figma" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Cloudflare-Dark.svg" alt="cloudflare" width=50/></a>
-
 
 # Projektek
 [`quart-i18n`](https://pypi.org/project/quart-i18n) » Egy egyszerű, alap Quart lokalizációs csomag. <br>
