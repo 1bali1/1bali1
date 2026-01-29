@@ -7,10 +7,6 @@
 <a href="#" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=cs" alt="cs" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width=50/></a>
 
-# Projektek
-[`quart-i18n`](https://pypi.org/project/quart-i18n) » Egy egyszerű, alap Quart lokalizációs csomag. <br>
-`pyro-backend` » Egy backend szerver, melynek segítségével régebbi Fortnite verziókkal is tudsz játszani.
-
 # Statisztikák
 <a href="#" target="_blank"><img align="center" src="https://wakatime.com/badge/user/072df440-838d-4c16-bc34-137a5d0c01a1.svg" alt="statBadge"/></a> 
 <a href="#" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=1bali1&color=green" alt="statBadge"/>
