@@ -6,7 +6,9 @@
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="python" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" alt="dart" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=cs" alt="cs" width=50/></a>
+<a href="#" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="dotnet" width=50/></a>
 <a href="#" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width=50/></a>
+
 
 # Statisztikák
 <a href="#" target="_blank"><img align="center" src="https://wakatime.com/badge/user/072df440-838d-4c16-bc34-137a5d0c01a1.svg" alt="statBadge"/></a> 
