@@ -1,19 +1,39 @@
-# Eszközök
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vsc" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=unity" alt="unity" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" alt="idea" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" alt="flutter" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="python" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" alt="dart" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=cs" alt="cs" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="dotnet" width=50/></a>
-<a href="#" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width=50/></a>
+<div align="center">
 
+# Eszközök
+
+</center>
+
+<br>
+
+<p align="center">
+    <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vsc" width=50/></a>
+    <a href="#" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=unity" alt="unity" width=50/></a>
+    <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" alt="idea" width=50/></a>
+    <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" alt="flutter" width=50/></a>
+    <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="python" width=50/></a>
+    <a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" alt="dart" width=50/></a>
+    <a href="#" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=cs" alt="cs" width=50/></a>
+    <a href="#" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="dotnet" width=50/></a>
+    <a href="#" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width=50/></a>
+</p>
+
+<br>
+
+<div align="center">
 
 # Statisztikák
-<a href="#" target="_blank"><img align="center" src="https://wakatime.com/badge/user/072df440-838d-4c16-bc34-137a5d0c01a1.svg" alt="statBadge"/></a> 
-<a href="#" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=1bali1&color=green" alt="statBadge"/>
 
-<a href="#" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Bali&show_icons=true&theme=tokyonight" alt="statsChar"  height="300" width="500"/></a>
+</div>
 
-<a href="#" target="_blank"><img align="center" src="https://streak-stats.demolab.com/?user=1bali1&theme=dark" alt="statsChar"  height="300" width="500"/></a>
+<br>
+
+<p align="center">
+    <a href="#" target="_blank"><img src="https://wakatime.com/badge/user/072df440-838d-4c16-bc34-137a5d0c01a1.svg" alt="statBadge"/></a> 
+    <a href="#" target="_blank"><img src="https://komarev.com/ghpvc/?username=1bali1&color=green" alt="statBadge"/>
+    <br>
+    <br>
+    <a href="#" target="_blank"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Bali&show_icons=true&theme=tokyonight" alt="statsChar"  height="300" width="500"/></a>
+    <br>
+    <a href="#" target="_blank"><img src="https://streak-stats.demolab.com/?user=1bali1&theme=dark" alt="statsChar"  height="300" width="500"/></a>
+</p>
