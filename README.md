@@ -33,5 +33,9 @@
     <br>
     <a href="#" target="_blank"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=1bali1&layout=compact&theme=tokyonight&show_icon=true" alt="statsChar"  height="300" width="500"/></a>
     <br>
+ 
+    <a href="#" target="_blank"><img src="https://github-stats-extended.vercel.app/api/wakatime?username=Bali&layout=compact&theme=tokyonight&show_icon=true" alt="statsChar"  height="300" width="500"/></a>
+
+    <br>
     <a href="#" target="_blank"><img src="https://streak-stats.demolab.com/?user=1bali1&theme=dark" alt="statsChar"  height="300" width="500"/></a>
 </p>
